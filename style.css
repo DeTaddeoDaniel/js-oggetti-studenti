@@ -1,0 +1,13 @@
+body{
+    background-color: peru;
+}
+
+.elementSearch{
+    border: 2px solid red; 
+    padding: 0;
+}
+
+.elementSearch input{
+    border: 2px solid rgb(21, 141, 156); 
+    margin: 0;
+}
